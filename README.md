@@ -1,15 +1,34 @@
-Hi, I’m @suyashgade21 👋  
+# Hi, I'm Suyash Gade 👋
 
-👀 I’m interested in Full Stack Development, Backend Architecture, Cloud Deployment, and Scalable Web Applications.  
+### 🚀 DevOps & Cloud Engineer | Automating Infrastructure • Scaling Applications • Simplifying Deployments
 
-🌱 I’m currently learning advanced backend systems with NestJS, Prisma ORM, PostgreSQL, and cloud infrastructure deployment.  
+I enjoy building reliable, scalable, and automated infrastructure that powers modern applications. From containerizing workloads to orchestrating Kubernetes clusters and designing CI/CD pipelines, I love turning complex deployment processes into efficient, repeatable workflows.
 
-💞️ I’m looking to collaborate on real-world SaaS projects, scalable backend systems, and innovative education-tech platforms.  
+## 🔥 What I Work With
 
-📫 How to reach me:  
-Email: suyashgade21@gmail.com  
-LinkedIn: (https://www.linkedin.com/in/suyashgade21/)  
+* ☁️ AWS
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🔄 Jenkins & GitHub Actions
+* 🏗️ Terraform (Infrastructure as Code)
+* 🐧 Linux & Bash Scripting
+* 📊 Prometheus & Grafana
+* ⚙️ Helm & Argo CD
+* 🔀 Git & GitHub
 
-😄 Pronouns: He/Him  
+## 🤝 Let's Collaborate
 
-⚡ Fun fact: I enjoy building complete systems from database schema design to production deployment — turning ideas into working platforms.
+I'm always excited to work on:
+
+* Cloud-native applications
+* Kubernetes & container orchestration
+* Infrastructure automation
+* CI/CD pipeline engineering
+* DevOps tooling and open-source projects
+
+## 📫 Connect With Me
+
+* 📧 **Email:** [suyashgade21@gmail.com](mailto:suyashgade21@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/suyashgade21/
+
+> **"Automate everything that can be automated. Build once, deploy anywhere."** 🚀
